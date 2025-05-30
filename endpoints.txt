@@ -1,0 +1,17 @@
+GPT-4o	api	https://api.openai.com/v1/chat/completions	API_KEY_REMOVED
+Claude-3-Sonnet	api	https://api.anthropic.com/v1/messages	API_KEY_REMOVED
+Mistral-Large	api	https://api.mistral.ai/v1/chat/completions	API_KEY_REMOVED
+Cohere-Command-R-Plus	api	https://api.cohere.ai/v1/chat	API_KEY_REMOVED
+Gemini-Pro	api	https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent	API_KEY_REMOVED
+Qwen-3-235B	api	https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation	API_KEY_REMOVED
+Grok-3	api	https://api.x.ai/v1/chat/completions	API_KEY_REMOVED
+Llama3-8B-openrouter	api	https://openrouter.ai/api/v1/chat/completions	API_KEY_REMOVED
+DeepSeek-R1-openrouter	api	https://openrouter.ai/api/v1/chat/completions	API_KEY_REMOVED
+Llama3-8B-offline	offline	meta-llama/Meta-Llama-3-8B-Instruct	
+Mistral-7B-offline	offline	mistralai/Mistral-7B-Instruct-v0.2	
+Phi-3-mini-4k-instruct-offline	offline	microsoft/phi-3-mini-4k-instruct	
+Mixtral-8x7B-offline	offline	mistralai/Mixtral-8x7B-Instruct-v0.1	
+Gemma-7B-it-offline	offline	google/gemma-1.1-7b-it	
+TinyLlama-offline	offline	TinyLlama/TinyLlama-1.1B-Chat-v1.0	
+Qwen1.5-1.8B-offline	offline	Qwen/Qwen1.5-1.8B-Chat	
+Deepseek-1.3B-offline	offline	deepseek-ai/deepseek-llm-1.3b-instruct				
