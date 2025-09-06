@@ -24,6 +24,7 @@ This package provides all code, data, and instructions to fully reproduce the ex
 | `llm_outputs_parsed.xlsx`          | Parsed and structured dataset with all intermediate metrics and response breakdown                |
 | `experts.csv`                      | Expert ethicists' responses                                                                       |
 | `LLMs Ethical Comparison.xlsx`     | Complete edited dataset with conditional formatting for visual feedback on thresholds             |
+| `LDA_topic_labels.txt`             | Provides an illustrative, analyst-facing mapping from LDA topics to short human-readable labels.  |
 | `\images`                          | Complete set of the produced images                                                               |
 | `README.md`                        | This file                                                                                         |
 
