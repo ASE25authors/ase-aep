@@ -1,0 +1,85 @@
+TITLE: LDA Topic Labels - Descriptive Mapping (k = 12)
+
+Purpose
+-------
+This file provides an illustrative, analyst-facing mapping from LDA topics to short human-readable labels.
+Labels are descriptive examples intended to support downstream interpretation and may be adapted to specific domains.
+For each topic we report a concise label, the top indicative tokens observed, and a brief rationale.
+
+Method note
+-----------
+Model: LDA on explanation corpus (preprocessing: lowercasing, tokenization, stopword removal, lemmatization, bigram detection).
+Selection: topics set to k = 12 based on Cv coherence (plateau at k = 12).
+Tokens: taken from the top-weighted terms per topic.
+
+----------------------------------------------------------------------
+Topic 1
+Label: Harm and character responsibility
+Top tokens: harm, protecting, character, behavior, good
+Rationale: Emphasizes avoiding harm through responsible conduct and attention to moral character.
+
+----------------------------------------------------------------------
+Topic 2
+Label: Normative framing and intervention
+Top tokens: deontological, virtue, privacy, safety, intervening
+Rationale: Signals meta-theoretical framing (deontology/virtue) combined with protective action and privacy/safety concerns.
+
+----------------------------------------------------------------------
+Topic 3
+Label: Autonomy and personal standing
+Top tokens: autonomy, personal, life, respects, human
+Rationale: Points to respect for individual agency and dignity in personal contexts.
+
+----------------------------------------------------------------------
+Topic 4
+Label: Consequences and cost–benefit
+Top tokens: consequences, beneficial, negative, diligence
+Rationale: Outcome-focused evaluation that weighs benefits, harms, and prudential considerations.
+
+----------------------------------------------------------------------
+Topic 5
+Label: Privacy, respect, and fairness
+Top tokens: privacy, character, respectful, fairness
+Rationale: Blends virtue language with respect for informational boundaries and equitable treatment.
+
+----------------------------------------------------------------------
+Topic 6
+Label: Duty, honesty, and property
+Top tokens: duty, honesty, principles, property, upholds
+Rationale: Highlights rule-following, truthfulness, and respect for property as deontic commitments.
+
+----------------------------------------------------------------------
+Topic 7
+Label: Rights and obligations
+Top tokens: rights, obligations, fairness, violates, honesty
+Rationale: Centers on entitlements and duties, including fairness and non-violation of others’ claims.
+
+----------------------------------------------------------------------
+Topic 8
+Label: Virtues of compassion and kindness
+Top tokens: virtues, kindness, compassion, character
+Rationale: Classic virtue-ethical register stressing benevolent traits and moral character.
+
+----------------------------------------------------------------------
+Topic 9
+Label: Utilitarian calculus
+Top tokens: maximizes, overall, happiness, harm
+Rationale: Net-benefit considerations oriented to maximizing overall well-being and minimizing harm.
+
+----------------------------------------------------------------------
+Topic 10
+Label: Civic responsibility and generosity
+Top tokens: civic, responsibility, generosity, concern, actions
+Rationale: Prosocial duties toward others and the community, including concern and helpful actions.
+
+----------------------------------------------------------------------
+Topic 11
+Label: Legal compliance and accountability
+Top tokens: laws, obligation, duty, violates, accountability
+Rationale: Connects moral duty with formal rules and responsibility for rule compliance.
+
+----------------------------------------------------------------------
+Topic 12
+Label: Justice, integrity, and solidarity
+Top tokens: justice, rules, duties, integrity, solidarity, courage
+Rationale: Rule-guided fairness coupled with integrity, solidarity, and strength of character.
