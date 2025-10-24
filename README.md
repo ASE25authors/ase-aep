@@ -132,7 +132,13 @@ For any issues, please contact the corresponding author.
 ## Citation
 
 If you use this code or data, please cite the paper:
+**Migliarini, P., Memon, M.A., Autili, M. and Inverardi, P., 2025. Advancing Automated Ethical Profiling in SE: a Zero-Shot Evaluation of LLM Reasoning. arXiv preprint arXiv:2510.00881.**
 
-> [Full citation info from the paper]
+@article{migliarini2025advancing,
+  title={Advancing Automated Ethical Profiling in SE: a Zero-Shot Evaluation of LLM Reasoning},
+  author={Migliarini, Patrizio and Memon, Mashal Afzal and Autili, Marco and Inverardi, Paola},
+  journal={arXiv preprint arXiv:2510.00881},
+  year={2025}
+}
 
 ---
