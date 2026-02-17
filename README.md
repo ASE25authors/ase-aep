@@ -132,7 +132,7 @@ For any issues, please contact the corresponding author.
 ## Citation
 
 If you use this code or data, please cite the paper:
-**Migliarini, P., Memon, M.A., Autili, M. and Inverardi, P., 2025. Advancing Automated Ethical Profiling in SE: a Zero-Shot Evaluation of LLM Reasoning. arXiv preprint arXiv:2510.00881.**
+**Migliarini, P., Memon, M. A., Autili, M., & Inverardi, P. (2025, November). Advancing Automated Ethical Profiling in SE: a Zero-Shot Evaluation of LLM Reasoning. In 2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE) (pp. 2452-2464). IEEE.**
 
 @article{migliarini2025advancing,
   title={Advancing Automated Ethical Profiling in SE: a Zero-Shot Evaluation of LLM Reasoning},
