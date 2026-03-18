@@ -134,11 +134,23 @@ For any issues, please contact the corresponding author.
 If you use this code or data, please cite the paper:
 **Migliarini, P., Memon, M. A., Autili, M., & Inverardi, P. (2025, November). Advancing Automated Ethical Profiling in SE: a Zero-Shot Evaluation of LLM Reasoning. In 2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE) (pp. 2452-2464). IEEE.**
 
-@article{migliarini2025advancing,
-  title={Advancing Automated Ethical Profiling in SE: a Zero-Shot Evaluation of LLM Reasoning},
-  author={Migliarini, Patrizio and Memon, Mashal Afzal and Autili, Marco and Inverardi, Paola},
-  journal={arXiv preprint arXiv:2510.00881},
-  year={2025}
+@inproceedings{DBLP:conf/kbse/MigliariniMAI25,
+  author       = {Patrizio Migliarini and
+                  Mashal Afzal Memon and
+                  Marco Autili and
+                  Paola Inverardi},
+  title        = {Advancing Automated Ethical Profiling in {SE:} a Zero-Shot Evaluation
+                  of {LLM} Reasoning},
+  booktitle    = {40th {IEEE/ACM} International Conference on Automated Software Engineering,
+                  {ASE} 2025, Seoul, Korea, Republic of, November 16-20, 2025},
+  pages        = {2452--2464},
+  publisher    = {{IEEE}},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/ASE63991.2025.00202},
+  doi          = {10.1109/ASE63991.2025.00202},
+  timestamp    = {Sun, 08 Feb 2026 15:06:01 +0100},
+  biburl       = {https://dblp.org/rec/conf/kbse/MigliariniMAI25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
 ---
